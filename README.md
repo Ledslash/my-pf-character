@@ -35,9 +35,9 @@ You can't use Brawler's Flurry the same turn you do this
 
 #### Limited Times
 * [Amateur Swashbuckler](https://www.d20pfsrd.com/classes/hybrid-classes/swashbuckler) 1 Point a day
-  - [Link in github]()
+  - [Link in github](https://github.com/Ledslash/my-pf-character/blob/master/swasbuckler.md)
 * [Amateur Gunslinger](https://www.d20pfsrd.com/classes/base-classes/gunslinger) 1 Point a day
-  - [Link in github]()
+  - [Link in github](https://github.com/Ledslash/my-pf-character/blob/master/gunslinger.md)
 * Caster’s Champion: Three times per day as a swift action, when you are within 30 feet of an ally who is an arcane spellcaster, you can channel a portion of her arcane power into your weapons. For 1 round, you gain a +1 bonus on all weapon damage rolls, and your weapons are treated as magic for the purpose of overcoming damage reduction. When your base attack bonus reaches +4 and every 4 points thereafter, this bonus increases by 1, to a maximum of +5 at 16th level.
 
 #### Extra Damage
@@ -149,7 +149,7 @@ You can't use Brawler's Flurry the same turn you do this
 
 ### For when you need to use odd Weapons
 * [Equipment Trick] (https://www.d20pfsrd.com/feats/combat-feats/equipment-trick-combat)
-  - [Link in github]()
+  - [Link in github](https://github.com/Ledslash/my-pf-character/blob/master/equipmentTrick.md)
 * Firebrand: You treat a torch as a light weapon that deals bludgeoning damage equal to that of a light mace of its size, plus 1 point of fire damage, and you do not incur penalties as you would for using it as an improvised weapon.
 
 ### Dodge as Base
